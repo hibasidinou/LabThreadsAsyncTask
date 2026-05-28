@@ -12,4 +12,24 @@
 /captures
 .externalNativeBuild
 .cxx
+# Android Studio
+
+.gradle/
 local.properties
+.idea/
+.external
+NativeBuild/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+# Generated APKs
+
+*.apk
+*.aab
+
